@@ -49,7 +49,7 @@ test('This is my second Test',async ({browser})=>
 
 }); 
 
-test.only('Rahul Shetty asignment for login Page',async({browser})=>
+test('Rahul Shetty asignment for login Page',async({browser})=>
 {
    const email= "prashushinde431@gmail.com";
    const context=await browser.newContext();

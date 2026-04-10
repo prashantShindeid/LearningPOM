@@ -28,7 +28,7 @@ test(`Login Page Assignment ${data.productName}`,async({page})=>{
 
 });
 }
- customtest.only(`Login Page Assignment `,async({page,testDataForOrder})=>{
+ customtest(`Login Page Assignment `,async({page,testDataForOrder})=>{
     const poManager= new POMmanager(page)
     const loginPage = poManager.getLoginPage();
     await loginPage.goTo();
