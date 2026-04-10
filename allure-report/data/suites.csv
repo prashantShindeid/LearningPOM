@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4083","Login Page Assignment","chromium","2026-04-10","passed","2026-04-10","","SampleTest.spec.js","",""
+"","4993","Rahul Shetty asignment for login Page","chromium","2026-04-10","failed","2026-04-10","","UIControl.spec.js","",""
